@@ -15,8 +15,8 @@ import sys
 import time
 
 TOOL_NAME = "Air_wifi_craker"
-USER_NAME = f"senpai@{Air_craker_wifi}"
-CAP_FILE = f"/tmp/{Air_craker_wifi}_cap"
+USER_NAME = f"senpai@{Air_wifi_craker}"
+CAP_FILE = f"/tmp/{Air_wifi_craker}_cap"
 
 
 def banner():
