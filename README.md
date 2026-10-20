@@ -37,5 +37,5 @@ sudo gunzip /usr/share/wordlists/rockyou.txt.gz
 
 # 4. Run the tool
 chmod +x install.sh
-install.sh
+sudo ./install.sh
 
