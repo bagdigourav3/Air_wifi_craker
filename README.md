@@ -36,8 +36,6 @@ sudo apt install aircrack-ng network-manager wireless-tools wordlists
 sudo gunzip /usr/share/wordlists/rockyou.txt.gz
 
 # 4. Run the tool
-sudo python3 Air_wifi_craker.py
-
-## Quick one-liner (Kali/Debian/Ubuntu):
-sudo apt update && sudo apt install -y aircrack-ng network-manager wireless-tools wordlists && sudo python3 Air_wifi_craker.py
+chmod +x install.sh
+install.sh
 
